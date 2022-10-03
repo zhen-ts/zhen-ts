@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zhen-ts
+- 👀 I’m interested in Python.
+- 🌱 I’m currently in learning mode.
